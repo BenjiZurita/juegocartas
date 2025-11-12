@@ -1,4 +1,4 @@
 from juego import Juego
 
-nuevojuego =Juego()
+nuevojuego = Juego()
 nuevojuego.jugar()
